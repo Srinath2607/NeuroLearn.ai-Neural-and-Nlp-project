@@ -79,5 +79,3 @@ npm run dev
 ## 📄 License
 MIT License.
 
----
-*Built with ❤️ for the future of education by NeuroLearn AI Team.*
